@@ -37,6 +37,8 @@ dependencies:
   # firestore
   cloud_firestore: ^4.4.5
 
+  firebase_core: ^2.9.0
+
   # provider for listening to state changes in streams
   provider: ^6.0.5
 
