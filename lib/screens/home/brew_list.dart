@@ -33,6 +33,7 @@ class _BrewListState extends State<BrewList> {
               leading: CircleAvatar(
                 radius: 25.0,
                 backgroundColor: Colors.brown[brews[index].strength],
+                backgroundImage: AssetImage("assets/coffee_icon.png"),
               ),
               title: Text(brews[index].name),
               subtitle: Text('Takes ${brews[index].sugars} spoon(s) sugar'),

@@ -1,4 +1,3 @@
-import 'package:brew_crew/shared/colors.dart';
 import 'package:brew_crew/models/my_user.dart';
 import 'package:brew_crew/screens/wrapper.dart';
 import 'package:brew_crew/services/auth.dart';
